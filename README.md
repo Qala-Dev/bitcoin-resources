@@ -1,13 +1,9 @@
 # Bitcoin Resources
 
----
-
 A curated list of Bitcoin Open Source Projects issues and learning resources
 
 
 ## Content
-
----
 
 - [Open Source Projects with Stacks](#open-source-projects)
 - [Learning Resources](#learning-resources)
@@ -15,8 +11,6 @@ A curated list of Bitcoin Open Source Projects issues and learning resources
 
 
 ## Open Source Projects
-
----
 
 * [Bitcoin core](https://github.com/bitcoin/bitcoin/issues) - C++, Python, C
 * [BtcPayServer](https://github.com/btcpayserver/btcpayserver/issues) - C#, Shell
@@ -27,8 +21,6 @@ A curated list of Bitcoin Open Source Projects issues and learning resources
 
 
 ## Learning Resources
-
----
 
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
 * [How Bitcoin Works](https://www.lopp.net/bitcoin-information.html) - Jameson Lopp
