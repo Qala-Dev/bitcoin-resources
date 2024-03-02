@@ -21,6 +21,22 @@ A curated list of Bitcoin Open Source Projects issues and learning resources
 - [React Native LDK](https://github.com/BlueWallet/rn-ldk) - C++
 - [Samourai wallet](https://code.samourai.io/wallet) - Kotlin, Java
 - [Wasabi](https://github.com/zkSNACKs/WalletWasabi/issues) - C#
+- [Phoenix](https://github.com/ACINQ/phoenix) - C
+- [Eclair](https://github.com/ACINQ/eclair) - Scala
+- [Lightning Kotlin Multiplatform](https://github.com/ACINQ/lightning-kmp) -Kotlin
+- [Btcd](https://github.com/btcsuite/btcd) - Go
+- [Lightning Loop](https://github.com/lightninglabs/loop) - Go
+- [RTL](https://github.com/Ride-The-Lightning/RTL) - JS, TS
+- [Mempool](https://github.com/mempool/mempool) - TS
+- [Element Projects](https://github.com/elementsproject/elements) - C++, Python
+- [Pyblock](https://github.com/curly60e/pyblock) - Python
+- [Bitcoinj](https://github.com/bitcoinj/bitcoinj) - Java
+- [Bitbox Wallet App](https://github.com/digitalbitbox/bitbox-wallet-app) - GO, TS
+- [Trezor firmware](https://github.com/trezor/trezor-firmware) - Python, C
+- [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Python
+- [Elements Lightning](https://github.com/ElementsProject/lightning) - C, Python
+- [Lightning Pool](https://github.com/lightninglabs/pool) - GO
+
 
 ## Learning Resources
 
