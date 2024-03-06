@@ -36,7 +36,10 @@ A curated list of Bitcoin Open Source Projects issues and learning resources
 - [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Python
 - [Elements Lightning](https://github.com/ElementsProject/lightning) - C, Python
 - [Lightning Pool](https://github.com/lightninglabs/pool) - GO
-
+- [Warden Terminal](https://github.com/pxsocs/warden_terminal) - Python, TS
+- [Robosats](https://github.com/RoboSats/robosats) - Python
+- [JoinMarket WebUI](https://github.com/joinmarket-webui/jam/) - TS
+- [Thunderhub](https://github.com/apotdevin/thunderhub) - TS
 
 ## Learning Resources
 
