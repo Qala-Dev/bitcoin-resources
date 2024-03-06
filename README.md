@@ -45,3 +45,13 @@ A curated list of Bitcoin Open Source Projects issues and learning resources
 
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
 - [How Bitcoin Works](https://www.lopp.net/bitcoin-information.html) - Jameson Lopp
+- [Bitcoin Developer Guide](https://developer.bitcoin.org/) - Bitcoin.org
+- [Learning Bitcoin from the Cli](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen and Shannon Appelcline
+- [Understanding the Lightning Network](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791) - Aaron van Wirdum
+- [Bitcoin OPCODES](https://en.bitcoin.it/wiki/Script) - Wiki
+- [A Gentle Introduction to Bitcoin development](https://programmingblockchain.gitbook.io/programmingblockchain/) - Gitbook
+- [Bitcoin Addresses prefix](https://en.bitcoin.it/wiki/List_of_address_prefixes) - Wiki
+- [Curated technical and Non technical articles for developers](https://bitcoinmagazine.com/tags/developers) - Bitcoin Magazine
+- [LND](https://dev.lightning.community/overview/) - LND Documentation
+- [BITCOIN FOR DEVELOPERS](https://learn.saylor.org/course/CS120) - Saylor.org
+
