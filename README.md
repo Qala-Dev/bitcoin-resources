@@ -27,6 +27,7 @@ A curated list of Bitcoin Open Source Projects issues and learning resources
 - [Btcd](https://github.com/btcsuite/btcd) - Go
 - [Lightning Loop](https://github.com/lightninglabs/loop) - Go
 - [RTL](https://github.com/Ride-The-Lightning/RTL) - JS, TS
+- [RGB](https://github.com/RGB-WG/rgb) - Rust
 - [Mempool](https://github.com/mempool/mempool) - TS
 - [Element Projects](https://github.com/elementsproject/elements) - C++, Python
 - [Pyblock](https://github.com/curly60e/pyblock) - Python
