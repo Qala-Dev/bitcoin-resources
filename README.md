@@ -56,3 +56,14 @@ A curated list of Bitcoin Open Source Projects issues and learning resources
 - [LND](https://dev.lightning.community/overview/) - LND Documentation
 - [BITCOIN FOR DEVELOPERS](https://learn.saylor.org/course/CS120) - Saylor.org
 
+#### Miniscript
+
+- [Understanding Miniscript](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-August/017270.html) - Peter Weille
+- [Miniscript](https://bitcoin.sipa.be/miniscript/)- Peter Weille
+- [Miniscript Workshop](https://github.com/apoelstra/miniscript-workshop) - Andrew Polster
+
+#### Taproot
+
+- [Taproot Workshop](https://github.com/bitcoinops/taproot-workshop) - Bitcoinops
+- [Optech Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/) - Bitcoinops
+
