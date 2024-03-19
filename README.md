@@ -67,3 +67,16 @@ A curated list of Bitcoin Open Source Projects issues and learning resources
 - [Taproot Workshop](https://github.com/bitcoinops/taproot-workshop) - Bitcoinops
 - [Optech Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/) - Bitcoinops
 
+#### SEGWIT
+
+- [Benefits of SEGWIT](https://en.bitcoin.it/wiki/Segregated_Witness#Benefits) - Bitcoin Wiki
+- [BIP 141](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki) - Eric Lombrozo, Johnson Lau and Pieter Wuille
+
+### OPEN SOURCE
+
+- [How to Contribute to Open Source Project](https://opensource.guide/how-to-contribute/) - Open Source Guide
+- [Contributing to Bitcoin - tips and tricks](https://danielabrozzoni.com/posts/contributing_to_oss/) - Daniela Brozzoni
+- [Bitcoin Core Onboarding](https://bitcoincore.academy/) - Will Clark
+- [A Gentle Introduction to Bitcoin Core Development](https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8) - Jimmy Song
+- [Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)- Amiti Uttarwar
+- [Onboarding to Bitcoin Core](https://obc.256k1.dev/#_overview_development_process) - 
